@@ -129,7 +129,7 @@ Prerequisites:
    documentation projects. 
    
    .. code-block:: yaml
-      :lineno:
+      :linenos:
    
       version: '2'
       services:
